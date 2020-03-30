@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://0.0.0.0:8000/blog/</loc>
+    <lastmod>2020-03-29T16:57:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://0.0.0.0:8000/</loc>
+    <lastmod>2020-03-29T16:57:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://0.0.0.0:8000/tags/poetry/</loc>
+    <lastmod>2020-03-29T16:57:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://0.0.0.0:8000/tags/</loc>
+    <lastmod>2020-03-29T16:57:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://0.0.0.0:8000/tags/trees/</loc>
+    <lastmod>2020-03-29T16:57:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://0.0.0.0:8000/trees-by-joyce-kilmer/</loc>
+    <lastmod>2020-03-29T16:57:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://0.0.0.0:8000/that-it-will-never-come-again-by-emily-dickinson/</loc>
+    <lastmod>2020-03-29T16:55:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://0.0.0.0:8000/tags/time/</loc>
+    <lastmod>2020-03-29T16:55:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://0.0.0.0:8000/if-by-rudyard-kipling/</loc>
+    <lastmod>2020-03-29T14:22:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://0.0.0.0:8000/tags/life/</loc>
+    <lastmod>2020-03-29T14:22:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://0.0.0.0:8000/categories/</loc>
+  </url>
+  
+</urlset>
